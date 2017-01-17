@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/RockLib/.vs/RockLib/v14
+/RockLib/obj/Debug
+/RockLib/bin/Debug
